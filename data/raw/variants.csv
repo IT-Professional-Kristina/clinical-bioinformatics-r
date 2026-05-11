@@ -1,0 +1,7 @@
+"gene","variant","chromosome","position","vaf","cancer_type","oncogene"
+"BRAF","V600E","chr7",140453136,0.48,"Melanoma",TRUE
+"TP53","R248W","chr17",7577538,0.35,"Pan-cancer",FALSE
+"KRAS","G12D","chr12",25398281,0.52,"PDAC",TRUE
+"EGFR","L858R","chr7",55259515,0.41,"NSCLC",TRUE
+"ERBB2","V842I","chr17",37880993,0.29,"Breast",TRUE
+"ABL1","T315I","chr9",133748283,0.61,"CML",FALSE
