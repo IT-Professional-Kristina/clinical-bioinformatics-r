@@ -1,0 +1,3 @@
+"oncogene","gene_type","n","mean_vaf","median_vaf","sd_vaf","min_vaf","max_vaf"
+FALSE,"Tumor Suppressor",2,0.48,0.48,0.184,0.35,0.61
+TRUE,"Oncogene",4,0.425,0.445,0.101,0.29,0.52
